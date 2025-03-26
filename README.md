@@ -27,6 +27,12 @@
 ### [Portfolio](https://github.com/GabrielPresense/portfolio)
 My portfolio is not quite ready yet, but you can see the projects I'm current working on, by accessing my repositories.
 
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielpresense/gabrielpresense/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielpresense/gabrielpresense/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gabrielpresense/gabrielpresense/output/github-contribution-grid-snake.svg">
+</picture>
+
 ##
 <div>  
   <a href="https://github.com/gabrielpresense">
